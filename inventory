@@ -1,0 +1,5 @@
+selenium ansible_host=52.170.249.182 ansible_connection=ssh ansible_user=rig ansible_ssh_pass=digitalrig@123
+
+[selenium]
+selenium
+
